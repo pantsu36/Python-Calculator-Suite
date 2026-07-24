@@ -1,3 +1,5 @@
+![Main Menu](screenshot.png)
+
 # Python Calculator Suite
 
 A multi-purpose calculator written in Python.
